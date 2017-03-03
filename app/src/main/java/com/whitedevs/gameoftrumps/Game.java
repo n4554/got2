@@ -34,7 +34,6 @@ import static com.whitedevs.gameoftrumps.R.id.adView;
 
 
 public class Game extends Activity {
-
 	Typeface font;
 	TextView txtStarBg;
 	TextView txtIconStar;
